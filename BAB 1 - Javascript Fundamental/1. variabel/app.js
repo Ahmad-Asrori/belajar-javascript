@@ -38,7 +38,7 @@ console.log(name);
 
 //pengecualian const, dalam membuat sebuah object nilai dapat diubah
 const person = {
-    name: 'John',
+    nama: 'John',
     age: 30
 };
 person.name = 'Sara';
